@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/OlympusEstateAgent/static/css/main.ad44b2c5.css",
+    "main.js": "/OlympusEstateAgent/static/js/main.fd210402.js",
+    "static/js/787.e507c3c7.chunk.js": "/OlympusEstateAgent/static/js/787.e507c3c7.chunk.js",
+    "index.html": "/OlympusEstateAgent/index.html",
+    "main.ad44b2c5.css.map": "/OlympusEstateAgent/static/css/main.ad44b2c5.css.map",
+    "main.fd210402.js.map": "/OlympusEstateAgent/static/js/main.fd210402.js.map",
+    "787.e507c3c7.chunk.js.map": "/OlympusEstateAgent/static/js/787.e507c3c7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad44b2c5.css",
+    "static/js/main.fd210402.js"
+  ]
+}
